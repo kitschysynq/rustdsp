@@ -1,0 +1,11 @@
+[package]
+name = "rustdsp"
+version = "0.1.0"
+authors = ["Sean Swehla <sean@sweh.la>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+portaudio = "0.7"
+sample = "0.10.0"
